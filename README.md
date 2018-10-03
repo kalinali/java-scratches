@@ -1,0 +1,2 @@
+# java-scratches
+Java scratchpad
